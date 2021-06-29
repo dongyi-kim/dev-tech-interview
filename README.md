@@ -1,1 +1,1 @@
-# dev-tech-interview
+# 개발자 기술면접 질문 모음집
